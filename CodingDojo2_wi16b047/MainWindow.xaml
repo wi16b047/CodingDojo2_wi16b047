@@ -68,6 +68,9 @@
                     </Border>
 
                     <StackPanel>
+                        <Image Margin="10,10,5,10" Height="48" Source="Images/Cloud sun02-WF.png"/>
+                        <Image Margin="10,10,5,10" Height="48" Source="Images/Cloud sun02-WF.png"/>
+                        <Image Margin="10,10,5,10" Height="48" Source="Images/Cloud sun02-WF.png"/>
                         <Button Foreground="White" Content="Übersicht" Margin="10,10,5,5" Height="48" FontSize="14" Background="#ff020202"/>
                         <Button Foreground="White" Content="Übersicht" Margin="10,10,5,5" Height="48" FontSize="14" Background="#ff020202"/>
                         <Button Foreground="White" Content="Übersicht" Margin="10,10,5,5" Height="48" FontSize="14" Background="#ff020202"/>
